@@ -1,0 +1,18 @@
+* text=auto eol=lf
+
+*.py text eol=lf
+*.ipynb text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.md text eol=lf
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+*.png binary
+*.jpg binary
+*.gif binary
+*.zip binary
+*.tar.gz binary
+*.pdf binary
